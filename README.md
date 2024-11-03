@@ -1,4 +1,4 @@
-# Borderline Explorer
+# Hide&Seek
 
 There are many reasons web developer want some parts of their websites hidden - and almost as many methods to do it. This extension’s concept is dead simple - show all intentionally hidden elements and hide everything else.
 
